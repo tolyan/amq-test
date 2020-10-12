@@ -1,4 +1,4 @@
-package me.anglerhood.ws.echo
+package amqtest.ws.echo
 
 import org.springframework.boot.SpringApplication
 import org.springframework.boot.WebApplicationType

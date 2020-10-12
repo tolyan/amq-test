@@ -1,4 +1,4 @@
-package me.anglerhood.ws.echo
+package amqtest.ws.echo
 
 import org.apache.activemq.broker.BrokerService
 import org.springframework.context.annotation.Bean

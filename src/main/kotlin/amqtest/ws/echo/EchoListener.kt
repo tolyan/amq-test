@@ -1,4 +1,4 @@
-package me.anglerhood.ws.echo
+package amqtest.ws.echo
 
 import org.springframework.beans.factory.annotation.Autowired
 import org.springframework.messaging.handler.annotation.MessageMapping

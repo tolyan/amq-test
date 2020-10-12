@@ -1,4 +1,4 @@
-package me.anglerhood.ws.echo
+package amqtest.ws.echo
 
 import org.springframework.context.annotation.Configuration
 import org.springframework.messaging.simp.config.MessageBrokerRegistry

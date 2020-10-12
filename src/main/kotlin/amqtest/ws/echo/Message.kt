@@ -1,4 +1,4 @@
-package me.anglerhood.ws.echo;
+package amqtest.ws.echo;
 
 class Message {
     var data: String? = null
